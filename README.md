@@ -1,7 +1,7 @@
-[![MasterHead](https://drive.google.com/file/d/1cuPe_scYDgGG7aB3buJ5s4ZyS4_t9nz2/view)]
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1d18U2rnwd4DLSjwwXTothnb-_Iq2hduc/view")
+img align="right" alt="Coding" width="400" src="")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workvikrant&label=Profile%20views&color=0e75b6&style=flat" alt="workvikrant" /> </p>
 
 - 📝 I regularly write articles on [vlog.tobemade](vlog.tobemade)

@@ -1,4 +1,4 @@
-[![MasterHead]()]
+[![MasterHead](https://storeitnowok.blob.core.windows.net/newcontainer/O969zbQ.jpg?sp=r&st=2022-08-16T06:52:10Z&se=2022-08-16T14:52:10Z&sv=2021-06-08&sr=b&sig=1JsKLzhJUdCtfHgHIKv17dM5ssH6xNr0rAg6JcuBCZc%3D)]
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 img align="right" alt="Coding" width="400" src="")

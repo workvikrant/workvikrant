@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://storeitnowok.blob.core.windows.net/newcontainer/test.jpg?sp=r&st=2022-08-16T06:54:37Z&se=2022-08-16T14:54:37Z&sv=2021-06-08&sr=b&sig=OPcCApbemMk%2F2Cw%2FDfASqdrH8pT2EloXMJWyQQfmZso%3D">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workvikrant&label=Profile%20views&color=0e75b6&style=flat" alt="workvikrant" /> </p>
 
-- 📝 I regularly write articles on [vlog.tobemade](vlog.tobemade)
+- 📝 I regularly write articles on [vlogs.vikrantchauhan.tech](vlogs.vikrantchauhan.tech)
 
-- 📫 How to reach me **mail@vikrant.works**
+- 📫 How to reach me **mail@vikrantchauhan.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

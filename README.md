@@ -1,7 +1,7 @@
-![MasterHead](https://storeitnowok.blob.core.windows.net/newcontainer/O969zbQ.jpg?sp=r&st=2022-08-16T06:52:10Z&se=2022-08-16T14:52:10Z&sv=2021-06-08&sr=b&sig=1JsKLzhJUdCtfHgHIKv17dM5ssH6xNr0rAg6JcuBCZc%3D)
+![MasterHead](https://photos.app.goo.gl/nNqNpMZmZ4bdopC17)
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://storeitnowok.blob.core.windows.net/newcontainer/test.jpg?sp=r&st=2022-08-16T06:54:37Z&se=2022-08-16T14:54:37Z&sv=2021-06-08&sr=b&sig=OPcCApbemMk%2F2Cw%2FDfASqdrH8pT2EloXMJWyQQfmZso%3D">
+<img align="right" alt="Coding" width="400" src="https://photos.app.goo.gl/thySgJziWNgALFYaA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workvikrant&label=Profile%20views&color=0e75b6&style=flat" alt="workvikrant" /> </p>
 
 - 📝 I regularly write articles on [vlogs.vikrantchauhan.tech](https://vlogs.vikrantchauhan.tech)

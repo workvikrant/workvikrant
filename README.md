@@ -1,7 +1,7 @@
-![MasterHead](https://photos.app.goo.gl/nNqNpMZmZ4bdopC17)
+![MasterHead](https://vikranstorge.blob.core.windows.net/data/header.jpg)
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://photos.app.goo.gl/thySgJziWNgALFYaA">
+<img align="right" alt="Coding" width="400" src="https://vikranstorge.blob.core.windows.net/data/main.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workvikrant&label=Profile%20views&color=0e75b6&style=flat" alt="workvikrant" /> </p>
 
 - 📝 I regularly write articles on [vlogs.vikrantchauhan.tech](https://vlogs.vikrantchauhan.tech)

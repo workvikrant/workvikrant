@@ -1,4 +1,4 @@
-![MasterHead](https://static.wixstatic.com/media/59a075_6a78d340d1cc41dabad8f32b17f1415e~mv2.gif)
+![MasterHead](https://vikranstorge.blob.core.windows.net/data/bi-dashboard.gif)
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://vikranstorge.blob.core.windows.net/data/main.jpg">

@@ -1,12 +1,12 @@
 ![MasterHead](https://vikranstorge.blob.core.windows.net/data/bi-dashboard.gif)
 <h1 align="center">Hi 👋, I'm Vikrant</h1>
 <h3 align="center">A passionate data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://vikranstorge.blob.core.windows.net/data/main.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics&psig=AOvVaw0xG-6ELBs7DvouKv8CMXvv&ust=1692473613454000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjO69D55oADFQAAAAAdAAAAABAJ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workvikrant&label=Profile%20views&color=0e75b6&style=flat" alt="workvikrant" /> </p>
 
 - 📝 I regularly write articles on [vlogs.vikrantchauhan.tech](https://vlogs.vikrantchauhan.tech)
 
-- 📫 How to reach me **mail@vikrantchauhan.tech**
+- 📫 How to reach me **workvikrant@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
